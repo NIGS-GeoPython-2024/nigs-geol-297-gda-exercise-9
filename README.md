@@ -10,7 +10,7 @@ All three of these cases are frequently used, and can even be calculated in comm
 
 ## Completing the exercise
 
-- **Exercise 9 is due by the start of the next lesson (on 25 May 2024)**.
+- **Exercise 9 is due by the start of the next lesson (on 9 November 2024)**.
 - **Remember to save and commit your changes locally, and upload your changes to GitHub after each major change**!
 
 ## Where to find help
@@ -28,7 +28,7 @@ Before starting to work with the problems for this week, you should start a new 
 ## Start working
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geopython-upd/notebooks/master?urlpath=lab)
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NIGS-GeoPython-2024/exercise-9)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NIGS-GeoPython-2024/nigs-geol-297-gda-exercise-9-exercise-9)
 
 There are 3 problems for this week in one notebook.
 
